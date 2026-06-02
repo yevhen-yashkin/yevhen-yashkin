@@ -4,6 +4,15 @@ Information Systems Developer focused on Microsoft 365, Power Platform, and Copi
 
 I help organizations understand, design, build, and evolve digital information systems: from business needs and data structures to applications, automation, documentation, and system evolution.
 
+## Career Profile
+
+| Resource | Link |
+|---|---|
+| Website | [yashkin.net](https://yashkin.net) |
+| LinkedIn | [linkedin.com/in/yevhen-yashkin](https://www.linkedin.com/in/yevhen-yashkin) |
+| CV — English | PDF will be added here |
+| Lebenslauf — Deutsch | PDF wird hier hinzugefügt |
+
 ## What I Do
 
 - clarify business needs and real user tasks
@@ -29,7 +38,3 @@ Project documentation should reflect the logic of the system through the main in
 ## Focus Areas
 
 Microsoft 365 · Power Platform · Power Apps · Power Automate · Dataverse · SharePoint · Microsoft Teams · Copilot Studio · Business Applications · Process Automation · Document Management · System Documentation · AI Agents
-
-## Website
-
-[yashkin.net](https://yashkin.net)
