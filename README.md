@@ -10,7 +10,6 @@ I help organizations understand, design, build, and evolve digital information s
 |---|---|
 | Website | [yashkin.net](https://yashkin.net) |
 | LinkedIn | [linkedin.com/in/yevhen-yashkin](https://www.linkedin.com/in/yevhen-yashkin) |
-| CV — English | [Download CV](assets/cv/Yevhen_Yashkin_CV_2026.pdf) |
 | Lebenslauf — German | [Download Lebenslauf](assets/cv/Yevhen_Yashkin_Lebenslauf_2026.pdf) |
 
 ## What I Do
